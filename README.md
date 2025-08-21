@@ -1,21 +1,64 @@
-# 💫 About Me:
-# Hi there 👋, I'm Keshav Bisht  <br><br>🎓 Final Year Computer Science Engineering Student  <br>💡 Passionate about building impactful solutions with technology  <br><br>🔭 I enjoy working on:  <br>- 📱 iOS & Android App Development  <br>- ⛓️ Blockchain  <br><br>🧩 I love solving **DSA problems** and continuously improving my problem-solving skills.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keshav-bisht/) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KeshavBisht&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KeshavBisht&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavBisht&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KeshavBisht&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+# 👋 Hi there, I'm **Keshav Bisht**  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KeshavBisht&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔭 What I Work On
+- 📱 **iOS & Android App Development**  
+- ⛓️ **Blockchain**  
+
+---
+
+## 🌐 Socials  
+<p align="center">
+  <a href="https://www.linkedin.com/in/keshav-bisht/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/keshavbisht/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KeshavBisht">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KeshavBisht&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KeshavBisht&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavBisht&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 LeetCode Stats  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/keshavbisht?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=KeshavBisht&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views" />
+</p>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
