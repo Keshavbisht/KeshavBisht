@@ -46,10 +46,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KeshavBisht&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views" />
-</p>
 
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
