@@ -1,12 +1,3 @@
-# 👋 Hi there, I'm **Keshav Bisht**  
-
----
-
-## 🔭 What I Work On
-- 📱 **iOS & Android App Development**  
-- ⛓️ **Blockchain**  
-
----
 
 ## 🌐 Socials  
 <p align="center">
